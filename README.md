@@ -1,6 +1,3 @@
-# -Movie-Genre-Prediction-from-Subtitles
-CONTENT OF README 
-
 # Movie Genre Prediction from Subtitles
 # Overview
 This project predicts movie genres based on subtitle files using natural language processing techniques. The model preprocesses the subtitle text, trains a logistic regression classifier using word embeddings or TF-IDF vectorization, and then predicts genre probabilities for the provided subtitle files.
